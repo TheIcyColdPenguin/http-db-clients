@@ -1,0 +1,16 @@
+{
+  "name": "http-db-client",
+  "version": "1.0.0",
+  "description": "A simple client for a simple database server",
+  "main": "index.js",
+  "type": "module",
+  "author": "TheIcyColdPenguin",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "node-fetch": "^3.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.4"
+  }
+}

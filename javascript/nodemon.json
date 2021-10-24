@@ -1,0 +1,6 @@
+{
+    "watch": ["./*.ts"],
+    "ignore": ["*.js"],
+    "ext": "ts, json",
+    "exec": "tsc && node . || exit 1"
+}
