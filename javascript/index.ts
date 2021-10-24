@@ -5,7 +5,7 @@ interface ServerRes {
     data: string;
 }
 
-class Database {
+export class Database {
     readonly dbUrl: string;
     readonly token: string;
     public data: any;
